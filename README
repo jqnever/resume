@@ -1,0 +1,81 @@
+
+个人信息
+•	姓名： 贾强
+•	性别：男
+•	出生年月：1992.09
+•	电子邮箱：457946165@qq.com
+•	手机：15031973179
+•	求职意向：Python 后端开发工程师
+________________________________________
+专业技能
+关键词（排名不分先后）： 
+ Django /Flask/ Xadmin / Github / RESTful / Mysql / Memcache / Celery / Redis / 爬虫
+•	服务端开发：Python
+熟悉基于 Python Django/Flask 框架的服务器开发，熟悉 RESTful；
+熟悉高并发，Celery+Reids，mysql数据库等；
+熟悉多线程，协程，socket，Http,，tcp等；
+
+•	客户端开发： HTML/CSS/JQuery
+熟悉 HTML/CSS/JavaScript, 熟悉 AJAX，熟悉 jQuery 库；
+熟悉 Bootstrap/Echarts 开源框架；
+
+•	操作系统：Windows/Linux
+掌握 Linux 环境下开发，熟悉 Ubuntu；
+
+•	数据库： MySQL/NoSQL
+熟悉 MySQL，了解 Redis；
+
+
+
+________________________________________
+项目经验
+•	2019.04 ~ 至今 煤矿信息港信息管理系统
+o	简介：信息港信息管理系统是专为煤矿企业开发的信息系统。主要功能包括政工管理，材料管理，机电管理，生产技术管理，销售管理等。
+o	角色：python后端开发
+o	职责：
+o	1：后台逻辑编写
+o	2：数据库model设计
+o	3：Xadmin+Ckeditor后台管理设计
+o	技术栈：Django/Mysql/Xadmin/Ckeditor/ Memcache/ Boostrap/ jQuery
+
+•	2019.4~ 至今 煤矿内部网站
+o	简介：新闻类网站，基于 Python + Django + adminLte + MySQL + Memcache + Boostrap +jQuery 的新闻视频网站, 网站具备登录、注册、短信验证、图形验证、视频观看、文章观看、评论、视频上传、文章上传等。这个网站的主要目的是，把所有多元化的信息集中到一起，让用户有更好的体验。
+o	角色: 后端开发工程师
+o	职责: 
+o	1：通过Boostrap，Jquery等完成前端页面的构建
+o	2：通过Ajax技术与服务器进行数据交互。
+o	3：用pythonWeb框架Django，完成后台逻辑实现。
+o	4：后台集成AdminLte管理，前后端使用Django_rest_framework进行数据交互。
+o	5：短信验证以及图形验证使用memcache缓存数据库。
+
+•	2019.01 ~ 2019.4 微信服务号后台系统
+o	简介：煤矿管理系统微信服务号，将煤矿信息展示在微信服务号，以及数据可视化。
+o	角色：全栈开发
+o	职责：
+o	1：获取AcessToken模块编写
+o	2：通过AcessToken设置导航按钮，发送json格式数据到微信后台
+o	3：解析微信XML数据模块，消息回复模块
+o	4：以迭代器的方式读取文件，通过Echarts前端插件，将数据可视化
+o	5：通过Xadmin后台管理系统，发布信息等
+o	技术栈：前端Bootstrap / jQuery / Echarts等；    
+后端Django / Xadmin / Mysql / Django_rest_framework / Nginx / Uwsgi等；
+
+教育背景
+•	2011.09 ~ 2013.06 河北软件学院  自动化专业 
+________________________________________
+工作经历
+•	2019.1 至今 北京艾可马恩科技有限公司
+•	2015.11 ~ 2018.09 北京瑞特爱能源科技股份公司
+________________________________________
+个人描述
+•	一直告诫自己尽量透过本质看问题，因为我认为浮于表面的东西是无法让人成长的，只有深入才能升华。
+•	经常潜水于各大开源社区，较强的自学能力和开阔的眼界；
+•	较强的自学能力，能通过英文文档、源码、Google、Stack Overflow、Github 快速掌握新的技术；
+•	最喜欢的 Linux 发行版是 Ubuntu，最喜欢的编辑器是 Pycharm；
+•	具有很强的求知欲和动手能力，喜欢尝试，焊过电路板，自制过音箱；
+•	爱好广泛，尤其是音乐、电影。
+________________________________________
+
+
+
+
